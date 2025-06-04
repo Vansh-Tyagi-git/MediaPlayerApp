@@ -11,7 +11,12 @@ Supports audio ~~& video~~ playback, playlist management, and more.
 ## 📽️ Demo
 
 <!-- Replace with actual path if you have a GIF -->
-![Media Player Demo](assets/media-player-demo.gif)
+![media icon](https://github.com/Vansh-Tyagi-git/MediaPlayerApp/blob/main/app/src/main/res/raw/image_icon.jpg)
+![Media Player Demo](https://github.com/Vansh-Tyagi-git/MediaPlayerApp/blob/main/app/src/main/res/raw/media_player_demo.gif)
+![media image](https://github.com/Vansh-Tyagi-git/MediaPlayerApp/blob/main/app/src/main/res/raw/music_player.png)
+
+
+Full Demo Vedio: https://github.com/Vansh-Tyagi-git/MediaPlayerApp/blob/main/app/src/main/res/raw/media_player_demo.mp4
 
 ---
 
@@ -27,12 +32,7 @@ Supports audio ~~& video~~ playback, playlist management, and more.
 
 ---
 
-## 🖼️ User Interface
 
-<!-- Replace with actual screenshot -->
-<img src="assets/media-player-ui.png" alt="UI Preview" width="800"/>
-
----
 
 ## 🔧 Tech Stack
 
